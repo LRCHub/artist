@@ -441,3 +441,4 @@ dai/M.Graveyard
 Pastel＊Palettes
 Yoshino
 ライスぎり
+Sato
