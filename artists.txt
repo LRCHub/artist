@@ -9,3 +9,4 @@ RUANN
 BUMP OF CHICKEN
 AURORA
 ILLIT
+go!go!vanillas
