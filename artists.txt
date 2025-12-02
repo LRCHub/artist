@@ -1466,3 +1466,4 @@ Aiobahn
 RAY
 namigroove
 UVERworld
+Kobore
