@@ -1399,3 +1399,4 @@ Aiobahn +81, Nanahira, Pmarusama
 Soft Launch
 Mirage Collective, STUTS, butaji, YONCE
 Furukawa Honpo, Chibita
+Yuuhei Satellite, senya
