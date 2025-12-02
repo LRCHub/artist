@@ -1253,3 +1253,4 @@ GatiS, Gatis Sturnieks
 EMA
 NARI
 MIMI, saewool
+GEMN, Kento Nakajima, Tatsuya Kitani
