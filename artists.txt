@@ -1118,3 +1118,4 @@ ReGLOSS, OHTORA, OHTORA, OGAWA RYO, OGAWA RYO
 Masaharu Fukuyama
 Kagemaru
 igarashi haru
+ReGLOSS, OHTORA, OHTORA, maeshima soshi, maeshima soshi
