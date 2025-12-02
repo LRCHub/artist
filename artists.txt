@@ -1344,3 +1344,4 @@ Misekai
 DIALOGUE+
 玉置成実, 宮崎京一, YO-HEY
 George Nozuka
+Yunomi
