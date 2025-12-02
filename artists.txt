@@ -1135,3 +1135,4 @@ Broken Kangaroo
 wapiti
 RIRIKO
 Mickey
+Lavt
