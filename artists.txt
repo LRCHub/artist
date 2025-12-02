@@ -1254,3 +1254,4 @@ EMA
 NARI
 MIMI, saewool
 GEMN, Kento Nakajima, Tatsuya Kitani
+MFS, Stones Taro
