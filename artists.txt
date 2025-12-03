@@ -1914,3 +1914,4 @@ Ribbon
 S
 fromis_9
 홍낭자
+DECO*27, 初音ミク
