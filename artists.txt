@@ -2083,3 +2083,4 @@ L1vet
 はんじょう切り抜き非行CH
 Lantis Channel
 SrLevi
+たろう16bit
