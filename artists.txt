@@ -2702,3 +2702,4 @@ Weird_Wired
 湊あくあ, 40mP, 40mP, 40mP
 星咲あかり（CV：赤尾ひかる）、高瀬梨緒（CV：久保ユリカ）、柏木美亜（CV：和氣あず未）、東雲つむぎ（CV：和泉風花）、皇城セツナ（CV：八巻アンナ）
 ComingFlavor, TEAM SHACHI, kazuei, 川口 進, 兼松 衆, Fred Stenson
+DENONBU, Kazune Shinonome (CV: Miho Amane), suisoh, suisoh, suisoh, suisoh, suisoh
