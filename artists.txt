@@ -2763,3 +2763,4 @@ high_note Music Lounge
 LEX
 IOSYS
 Dax
+NORIKIYO JPN
