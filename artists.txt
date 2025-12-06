@@ -3050,3 +3050,4 @@ LDH Records
 LOW HIGH WHO?
 XLARGE OFFICIAL
 Alstroemeria Records, nomico
+EmoCosine, EmoCosine
