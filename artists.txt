@@ -4153,3 +4153,4 @@ Goldenbomber, Kiryuin Shou, Kiryuin Shou
 Goldenbomber, Kiryuin Sho, Kiryuin Sho
 DIGM
 NGONG, AZU, BANNY BUGS
+NGONG, 3House
