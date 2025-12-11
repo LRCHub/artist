@@ -4366,3 +4366,4 @@ KOGANEMUSHI, This is a cat.
 inabakumori, inabakumori, inabakumori, inabakumori
 激戦の人, MG
 激戦の人
+激戦の人, 泡者
