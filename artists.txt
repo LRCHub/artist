@@ -4365,3 +4365,4 @@ HOYO-MiX, 王可鑫
 KOGANEMUSHI, This is a cat.
 inabakumori, inabakumori, inabakumori, inabakumori
 激戦の人, MG
+激戦の人
