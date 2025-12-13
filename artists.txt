@@ -5035,3 +5035,4 @@ RAT BOY, IBDY, Rat Boy
 PROTOCOLLON, Musicarus, Ryugasaki Rene
 여자친구 (GFRIEND)
 EVERGLOW
+STAYC, Rado, FLYT, Rado, FLYT, Jeon Goon
