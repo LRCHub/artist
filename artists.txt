@@ -5503,3 +5503,4 @@ RA, SHI, 嵐
 IU, Donghwan Seo, Donghwan Seo, IU
 IU, Chaekyu Lee, Jonghoon Lee, Chaekyu Lee, IU, Jonghoon Lee, IU
 muunroo, GatiS, Gatis Sturnieks
+Olexandr Ignatov
