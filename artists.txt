@@ -6497,3 +6497,4 @@ LL! Misc
 Setsuna Yuki (CV: Coco Hayashi), Mia Taylor (CV: Shu Uchida)
 中須かすみ (CV.相良茉優)
 nakigoto, 水上 えみり, 水上 えみり
+fromLLLLL
