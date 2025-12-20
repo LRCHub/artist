@@ -7003,3 +7003,4 @@ Konata Izumi (CV: Aya Hirano), Kagami Hiiragi (CV: Emiri Kato), Tsukasa Hiiragi 
 MUSIC Liverary
 void
 noiseless-world
+カンナ (CV.長縄まりあ)
