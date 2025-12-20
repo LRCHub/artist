@@ -7005,3 +7005,4 @@ void
 noiseless-world
 カンナ (CV.長縄まりあ)
 Taiki Shuttle (CV: Yuka Otsubo), Grass Wonder (CV: Rena Maeda), Hishi Amazon (CV: Yuiko Tatsumi)
+fourfolium
