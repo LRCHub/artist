@@ -7347,3 +7347,4 @@ Bass Music Movement
 WhaleDontSleep, Ado
 ThoughtCast
 Lambert
+Ado, Miku Hatsune
