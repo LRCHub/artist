@@ -8335,3 +8335,4 @@ LAS, Rocoberry, DARM, AVIN, SLAY, Roco, Berry, AVIN, SLAY, AVIN, SLAY, Roco, Ber
 KANDYTOWN, DONY JOINT, MASATO, Ryohu
 URBAN ZAKAPA(어반자카파)
 도유카 doyouka
+doyouka
