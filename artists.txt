@@ -9061,3 +9061,4 @@ RomancePlanet, STAKILLAZ
 Rio Futaba(CV:Atsumi Tanezaki)
 official yoin
 Itoguruma, imaizumi
+rinri
