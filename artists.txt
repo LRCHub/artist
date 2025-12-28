@@ -9134,3 +9134,4 @@ VOLTACTION, Funk Uchino, Gigi, Erik Lidbom, RUSH EYE, RUSH EYE
 VOLTACTION, Masaki Fukuda, Jay Hong, BooJoo, Jabong, BooJoo, Jabong
 SKYLE
 VOLTACTION, Chihiro Tamaki, Chihiro Tamaki, Chihiro Tamaki
+Genie High
