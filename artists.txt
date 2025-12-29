@@ -9351,3 +9351,4 @@ Split end
 Kairi Yagi
 和楽器バンド, kemu, kemu, 和楽器バンド/hash
 Aina Suzuki
+胡桃もよ
