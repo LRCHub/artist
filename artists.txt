@@ -9672,3 +9672,4 @@ BMSG
 CUTIE STREET, フクイチカズキ(M-AG), フクイチモトキ(M-AG)
 Save idol music
 Kenshi Yonezu, Hatsune Miku
+森口博子, RYO, 川端正美
