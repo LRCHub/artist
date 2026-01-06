@@ -10628,3 +10628,4 @@ LGYankees
 クリフエッジ, LGYankees, MAY'S, Noa, hiro, KENNY, 内野 歩, Noa
 LGYankees, LGYankees, Ruller
 Paul McCartney, Stevie Wonder
+ROWSHI
