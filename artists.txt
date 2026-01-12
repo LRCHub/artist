@@ -11316,3 +11316,4 @@ RD-Sounds
 buzzG, メグッポイド
 n-buna, Yaginuma Kana
 Takeaki Wada, KASANE TETO
+まるり
