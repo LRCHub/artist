@@ -11951,3 +11951,4 @@ Knock2
 Sirius, Gingaza, Eden, Gekidan Denki
 Lanndo, キタニタツヤ, ぬゆり
 仙兔Alisa
+Knock2, fussy
