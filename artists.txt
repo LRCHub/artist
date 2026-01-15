@@ -12571,3 +12571,4 @@ SF9
 ピコ, SPICA, SPICA, SAM
 ISOKNOCK, ISOxo, Knock2, Araya, Sur Back, Christian Araya, Caroline Leigh Sans, Julian Isorena, Richard Nakhonethap
 CLIFF EDGE
+あお
