@@ -12757,3 +12757,4 @@ SawanoHiroyuki[nZk], Tielle, Gemie
 MH80-C1000
 UNDEAD, あんさんぶるスターズ！！
 Idios
+和楽器バンド, 黒うさ, 黒うさ, 和楽器バンド
