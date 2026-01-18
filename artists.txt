@@ -14479,3 +14479,4 @@ Pearl(CV.Hina Tachibana)
 前髪ぱっつん少年
 DIALOGUE＋Official Channel
 はるまきごはん，キタニタツヤ
+E.scene, CHIPPI, CHIPPI, Yoshinao, makoto, CHIPPI
