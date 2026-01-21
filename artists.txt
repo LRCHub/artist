@@ -15765,3 +15765,4 @@ ATLUS Sound Team, ATLUS GAME MUSIC, ATLUS Sound Team, ATLUS Sound Team
 Tenebrix
 SEGA, Hidenori Shoji, Hidenori Shoji
 ATLUS Sound Team, ATLUS GAME MUSIC, 小塚良太, 小塚良太
+コーエーテクモサウンド, アトラスサウンドチーム, コーエーテクモサウンド
