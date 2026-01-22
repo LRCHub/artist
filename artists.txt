@@ -16464,3 +16464,4 @@ TO1, INI
 Lamy Ch. 雪花ラミィ
 FARUCO ch.
 칸사모
+FrostBorne, NoNo
