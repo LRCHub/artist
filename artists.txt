@@ -17709,3 +17709,4 @@ SLAVE.V-V-R, 初音ミク
 namigroove, Kotonoha Akane&Aoi
 Kagari Shiina(cv.Megumi Han ）
 See-Saw, 石川智晶, 梶浦由記
+Watson
