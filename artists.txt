@@ -19099,3 +19099,4 @@ OBKR, STUTS, HAMA OKAMOTO, SHO OKAMOTO, KOKI OKAMOTO
 minimum electric design
 NIYARI, オカモト ショウ, オカモト コウキ
 Flammable, OBKR, VITO
+Project Lumina, hotal, hotal
