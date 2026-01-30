@@ -18949,3 +18949,4 @@ David Pasqualini, Joe Hisaishi
 higma, iyowa, HATSUNE MIKU
 higma, Sasanomaly, HATSUNE MIKU
 MediaBlox
+BL8M, AKUGETSU
