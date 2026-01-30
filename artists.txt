@@ -18950,3 +18950,4 @@ higma, iyowa, HATSUNE MIKU
 higma, Sasanomaly, HATSUNE MIKU
 MediaBlox
 BL8M, AKUGETSU
+majiko
