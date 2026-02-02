@@ -19828,3 +19828,4 @@ namigroove, KAFU
 TRUE, 唐沢美帆, 矢鴇つかさ
 令和の虎Youth
 Honoka
+kinoshita, Otomachi Una
