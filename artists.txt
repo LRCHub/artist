@@ -20581,3 +20581,4 @@ TPR
 channel ゲームBGM
 Muni Long
 Inon Zur, Fallout
+hololive IDOL PROJECT, Ryutaro Fujinaga（Elements Garden）, Ryutaro Fujinaga（Elements Garden）
