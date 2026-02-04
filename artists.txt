@@ -20804,3 +20804,4 @@ CielP, 初音ミク, 巡音ルカ
 澄空
 Penthouse, 9m88
 Shinra-Bansho, COOL&CREATE
+Yuuhei Satellite, Toa
