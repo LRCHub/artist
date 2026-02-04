@@ -20805,3 +20805,4 @@ CielP, 初音ミク, 巡音ルカ
 Penthouse, 9m88
 Shinra-Bansho, COOL&CREATE
 Yuuhei Satellite, Toa
+snooty, 深原ぽた
