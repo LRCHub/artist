@@ -21807,3 +21807,4 @@ WANDS
 濁茶, 重音テト
 rubens
 Calcy Ooe
+Kashi Moimi
