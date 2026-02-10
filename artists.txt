@@ -22350,3 +22350,4 @@ TRI.BE
 amia
 Sistar19
 STAYC, Rado, Rado, Rado, Choi Gyuseong, Jeon Goon, Rado, Choi Gyuseong, Jeon Goon
+style
