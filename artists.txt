@@ -22763,3 +22763,4 @@ rusino, rusino, rusino
 陸上自衛隊中央音楽隊, 黛敏郎
 Tielle
 Void_Chords, MindaRyn
+海上自衛隊東京音楽隊, 海軍軍楽隊/斎藤丑松
