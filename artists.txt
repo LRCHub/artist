@@ -23145,3 +23145,4 @@ UPSTART
 MinaYuki
 Sirius Symboli (CV: Fairouz Ai)
 アルコサイト, 北林 英雄
+Blumio, kyte
