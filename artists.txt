@@ -23801,3 +23801,4 @@ templuv
 空より蒼い街, Orangestar, Orangestar
 AmabaNatsuki
 Kenta Dedachi
+HoYoFair, KOPI
