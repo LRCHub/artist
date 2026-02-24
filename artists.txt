@@ -25262,3 +25262,4 @@ hideon
 owl*tree, seki*tree
 토루리
 宇宙ネコ子, ラブリーサマーちゃん
+FAKE TYPE., KAF
