@@ -26839,3 +26839,4 @@ Jean-Yves Thibaudet
 Hans Zimmer, Richard Harvey
 Jóhann Jóhannsson
 Emile Mosseri
+Marco Beltrami, Marcus Trumpp
