@@ -28565,3 +28565,4 @@ aurora.heaven, Salca Denis, Salca Denis
 J-POP Music BGM channel
 Shota Mitarai (CV: Yoshitsugu Matsuoka), Minori Watanabe (CV: Tomohito Takatsuka), Takeru Taiga (CV: Junta Terashima), Daigo Kabuto (CV: Takehiro Urao)
 CLXUDA
+1nonly, EGOVERT
